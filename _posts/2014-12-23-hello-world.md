@@ -16,9 +16,8 @@ I will be trying more things with Jekyll and Github in the coming weeks (hopeful
 
 I will also be looking into how to customize the website without breaking the core functionality and see how to install other themes without post migration frustrations.
 
-## Themes
+## Notes & Resources
 
-- [github list](https://github.com/jekyll/jekyll/wiki/Themes)
+- [github list of themes](https://github.com/jekyll/jekyll/wiki/Themes)
 - [jekyllthemes.org](http://jekyllthemes.org/)
-
-
+- [setup & customization info of poole](http://joshualande.com/jekyll-github-pages-poole/)
