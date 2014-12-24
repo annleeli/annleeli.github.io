@@ -21,3 +21,4 @@ I will also be looking into how to customize the website without breaking the co
 - [github list of themes](https://github.com/jekyll/jekyll/wiki/Themes)
 - [jekyllthemes.org](http://jekyllthemes.org/)
 - [setup & customization info of poole](http://joshualande.com/jekyll-github-pages-poole/)
+- [creating an archive 1](http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year)
