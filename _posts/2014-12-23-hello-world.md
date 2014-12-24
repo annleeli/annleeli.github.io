@@ -23,4 +23,4 @@ I will also be looking into how to customize the website without breaking the co
 - [setup & customization info of poole](http://joshualande.com/jekyll-github-pages-poole/)
 - [archive by year - 1](http://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year)
 - [archive by year - 2](http://mikerowecode.com/2010/08/jekyll_archives_grouped_by_year.html)
-- [archive by month - 1](http://sarathlal.com/make-an-archive-page-for-jekyll-without-plugins/)
+- [archive by month - 1](http://www.mitsake.net/2012/04/archives-in-jekyll/)
