@@ -10,19 +10,13 @@ published: true
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}-->
 
-<ul>
-  {% for post in site.posts %}
-
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
-      {% endif %}
-    {% endunless %}
-
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h1>{{ currentyear }}</h1>
+    <ul>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
