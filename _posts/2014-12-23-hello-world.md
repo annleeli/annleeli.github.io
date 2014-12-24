@@ -18,7 +18,7 @@ I will also be looking into how to customize the website without breaking the co
 
 ## Themes
 
-- https://github.com/jekyll/jekyll/wiki/Themes
-- item
-- item
+- [github list](https://github.com/jekyll/jekyll/wiki/Themes)
+- [jekyllthemes.org](http://jekyllthemes.org/)
+
 
