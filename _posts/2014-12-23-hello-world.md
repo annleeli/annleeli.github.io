@@ -13,3 +13,5 @@ All posts can be written in [Markdown](http://daringfireball.net/projects/markdo
 ## Looking forward
 
 I will be trying more things with Jekyll and Github in the coming weeks (hopefully) and getting a little more work done onto my pet Android project (which also has a huge learning curve for me).
+
+I will also be looking into how to customize the website without breaking the core functionality and see how to install other themes without post migration frustrations. 
