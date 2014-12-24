@@ -8,4 +8,8 @@ Getting this site up was a learning experience that I have still not completely 
 
 ## It uses Markdown
 
-All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for me to use if I need reminders. Or use [prose.io](prose.io) as an editor. 
+All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for me to use if I need reminders. Or I can use [prose.io](prose.io) as an editor. 
+
+## Looking forward
+
+I will be trying more things with Jekyll and Github in the coming weeks (hopefully) and getting a little more work done onto my pet Android project (which also has a huge learning curve for me). 
