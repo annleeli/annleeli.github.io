@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Annlee Li
-tagline:          ''
+tagline:          'personal site'
 description:      '1B Computer Science student at UWaterloo'
 url:              http://polkabear.github.io
 baseurl:          /
