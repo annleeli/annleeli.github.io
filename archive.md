@@ -19,4 +19,5 @@ published: true
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
