@@ -8,12 +8,11 @@ published: true
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}-->
+{% endfor %} -->
 
 {% for post in site.posts %}
   {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
   {% if currentyear != year %}
-    {% unless forloop.first %}</ul>{% endunless %}
     ##{{ currentyear }}
     * {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
