@@ -15,7 +15,6 @@ published: true
 {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
 {% if year != nyear %}
 <h2>{{ post.date | date: '%Y' }}</h2>
-
 {% endif %}
 {% endunless %}
 
