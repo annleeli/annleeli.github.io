@@ -10,5 +10,5 @@ published: true
   <h2>{{ currentyear }}</h2>
   {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-  * {{ post.date | date: "%d" date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
+  * {{ post.date | date: "%a %d" date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
   {% endfor %}
