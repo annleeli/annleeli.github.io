@@ -4,7 +4,6 @@ title: About
 published: true
 ---
 
-<p class="message">
-  "Who am I?"
-</p>
+  > We loved with a love that was more than love
+  <cite>&mdash; A Relavent Person</cite>
 
