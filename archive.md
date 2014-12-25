@@ -4,13 +4,20 @@ title: Archive
 published: true
 ---
 
-{% for post in site.posts %}
-   {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-   {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
-   {% if month != nmonth %}
-   {% if forloop.index != 1 %}</ul>{% endif %}
-   <h3>{{ post.date | date: '%B %Y' }}</h3><ul>
-   {% endif %}
-   <li>{{ post.date | date: "%b %e" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-    
-{% endfor %}
+ <ul>
+   {% for post in site.posts %}
+ 
+     {% unless post.next %}
+ <h2>{{ post.date | date: '%Y' }}</h2>
+     {% else %}
+       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+       {% if year != nyear %}
+ <h2>{{ post.date | date: '%Y' }}</h2>
+       {% endif %}
+     {% endunless %}
+ 
+-<li>{{ post.date | date:"%b %d" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
++	<li>{{ post.date | date:"%b %d" }} &raquo; <a href="{{ post.url }}">{{ post.title }}	</a></li>
+   {% endfor %}
+ </ul>
