@@ -16,5 +16,5 @@ published: true
     ## {{ currentyear }}
      {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-    *[ {{ post.title }} ]({{ post.url }})
+    - [{{ post.title }}]({{ post.url }})
 {% endfor %}
