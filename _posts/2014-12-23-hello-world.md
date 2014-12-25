@@ -4,7 +4,7 @@ title: Hello World
 published: true
 ---
 
-Getting this site up was a learning experience that I have still not completely figured out. I really want to understand Jekyll (because I think it is really cool and useful) but my local installation isn't working out. And so I may have given up and just downloaded a template instead. 
+Getting this site up was a learning experience that I have still not completely figured out. I really want to understand Jekyll (because I think it is really cool and useful) but my local installation isn't working out. And so I may have given up and instead downloaded a template instead. 
 
 ## It uses Markdown
 
