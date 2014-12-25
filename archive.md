@@ -12,5 +12,5 @@ published: true
 <ul>
 {% capture year %}{{currentyear}}{% endcapture %} 
 {% endif %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li>{{ post.date | date:: "%b %d" date_to_string }}<a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
