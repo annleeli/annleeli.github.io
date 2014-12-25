@@ -4,6 +4,6 @@ title: About
 published: true
 ---
 
-  > We loved with a love that was more than love
+  > Annlee is so awesome!
   <cite>&mdash; A Relavent Person</cite>
 
