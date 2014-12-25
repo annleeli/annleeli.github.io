@@ -13,6 +13,5 @@ published: true
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
- 
 {% endfor %}
 {% if site.posts.size != 0 %}</ul>{% endif %}
