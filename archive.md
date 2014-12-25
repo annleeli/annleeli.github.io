@@ -14,10 +14,8 @@ published: true
   {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
   {% if currentyear != year %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1>{{ currentyear }}</h1>
-    <ul>
-    {% capture year %}{{currentyear}}{% endcapture %} 
+    ##{{ currentyear }}
+    * {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% if forloop.last %}</ul>{% endif %}
+    *[ {{ post.title }} ]({{ post.url }})
 {% endfor %}
