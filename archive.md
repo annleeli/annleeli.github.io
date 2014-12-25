@@ -17,6 +17,6 @@ published: true
       {% endif %}
     {% endunless %}
 
-<li>{{ post.date | date:"%b %d" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+<li>{{ post.date | date:"%b %d" }} &raquo; [{{ post.title }}]({{ post.url }})</li>
   {% endfor %}
 </ul>
