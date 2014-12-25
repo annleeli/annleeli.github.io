@@ -11,6 +11,6 @@ published: true
    {% if forloop.index != 1 %}</ul>{% endif %}
    <h3>{{ post.date | date: '%B %Y' }}</h3><ul>
         {% endif %}
-    <li>{{ post.date | date: "%e %B %Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date: "%B %e" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     
 {% endfor %}
