@@ -12,3 +12,6 @@ published: true
   {% endif %}
   * {{ post.date | date: "%b %d" date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
   {% endfor %}
+  
+  * help
+  * not
