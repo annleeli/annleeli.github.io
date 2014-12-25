@@ -4,18 +4,19 @@ title: Archive
 published: true
 ---
 
-  
-  - help
-  - not
+<ul>
+  {% for post in site.posts %}
 
-{% for post in site.posts %}
-{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-  {% if currentyear != year %}
-  <h2>{{ currentyear }}</h2>
-  {% capture year %}{{currentyear}}{% endcapture %} 
-  {% endif %}
-  * {{ post.date | date: "%b %d" date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
+    {% unless post.next %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
+
+    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-  
-  - help
-  - not
+</ul>
