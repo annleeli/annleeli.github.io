@@ -4,6 +4,7 @@ title: Archive
 published: true
 ---
 
+<ul>
 {% for post in site.posts %}
 
 {% unless post.next %}
@@ -17,7 +18,7 @@ published: true
 
 {% endif %}
 {% endunless %}
-<ul>
+
 <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
