@@ -4,6 +4,10 @@ title: Archive
 published: true
 ---
 
+  
+  - help
+  - not
+
 {% for post in site.posts %}
 {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   {% if currentyear != year %}
@@ -13,5 +17,5 @@ published: true
   * {{ post.date | date: "%b %d" date_to_string }} &raquo; [{{ post.title }}]({{ post.url }})
   {% endfor %}
   
-  * help
-  * not
+  - help
+  - not
