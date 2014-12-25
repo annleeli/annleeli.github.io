@@ -13,4 +13,5 @@ published: true
 {% capture year %}{{currentyear}}{% endcapture %} 
 {% endif %}
 <li>{{ post.date | date: "%b %d" date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% unless forloop.first %}</ul>{% endunless %}
 {% endfor %}
