@@ -8,7 +8,7 @@ Getting this site up was a learning experience that I have still not completely 
 
 ## Markdown
 
-All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for me to use if I need reminders. Or I can use [prose.io](prose.io) as an editor. 
+All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for me to use if I need reminders. Or I can use [prose.io](prose.io) as a convenient editor. 
 
 ## Looking forward
 
