@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Resume
+published: true
 ---
+
 # Annlee Li
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a>
+[Github](https://github.com/polkabear)
 
 ## Education
 ### University of Waterloo, 2014 - Present
@@ -21,5 +24,3 @@ Ontario Scholar, OSSD
 - Illustrator
 - Java
 - Wiki Markup
-
-
