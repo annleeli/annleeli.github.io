@@ -6,6 +6,8 @@ published: true
 
 Some of my previous and ongoing projects. 
 
+<!-- note to self: create gifs of gameplay when you rollover the images--->
+
 ![Eat the Sweets](http://i.imgur.com/r6AaxjL.png)
 ## Eat the Sweets
 A fast-pased, vertical-scrolling platformer game created in Turing. Goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics are created by me, while others are borrowed from MapleStory.
