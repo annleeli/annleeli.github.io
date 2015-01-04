@@ -19,8 +19,12 @@ Ontario Scholar, OSSD
 ...
 
 ## Skills
+### Languages
+- Scheme
 - HTML
-- Photoshop
-- Illustrator
 - Java
 - Wiki Markup
+### Software
+- Photoshop
+- Illustrator
+- Microsoft Word, Excel and PowerPoint
