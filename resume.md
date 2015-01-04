@@ -5,7 +5,7 @@ published: true
 ---
 
 # Annlee Li
-<p><a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a></p>
+<a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
 [Github](https://github.com/polkabear)
 
 ## Education
