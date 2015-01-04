@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: Waterloo, here I come (back)
 ---
 
 Going back to Waterloo tomorrow!
