@@ -11,5 +11,9 @@ A fast-pased, vertical-scrolling platformer game created in Turing. Goal is to c
 
 Source code coming soon to Github...
 
+## Quidditch Flight Simulator
+![Quidditch](http://i.imgur.com/MG1rFYL.png)  
+A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. 
+
 ## CountingStars
 In-progress Android application for keeping track of things in life. It is a counter app that can be used for keeping track of times something happens, (e.g. yellow cars, science experiments or more). 
