@@ -7,7 +7,7 @@ published: true
 > Annlee is so awesome!
   <cite>&mdash; A Relevent Person</cite>
   
-  I am currently in my first year at the University of Waterloo, studying **Computer Science** with co-op. I have a passion for new technologies, the internet and  art. 
+  I am currently in my first year at the University of Waterloo, studying **Computer Science** with co-op. I have a passion for new technologies, the internet and art. 
   
   I have dabbled in **web development**, **mobile development**, and **game development**. I am very interesting in UI/UX design. 
   
