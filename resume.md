@@ -10,18 +10,18 @@ published: true
 
 ## Education
 ### University of Waterloo, 2014 - Present
-Bachelor of Computer Science
+Candidate for Bachelor of Computer Science Degree, 2019
 
 ### Bayview Secondary School, 2010 - 2014
-Ontario Scholar, OSSD
+Ontario Scholar, Ontario Secondary School Diploma
 
 ## Experience
 ...
 
 ## Skills
 ### Languages
-- Scheme
-- HTML
+- Racket (Scheme)
+- HTML, CSS
 - Java
 - Wiki Markup
 ### Software
