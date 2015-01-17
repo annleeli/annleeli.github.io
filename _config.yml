@@ -24,3 +24,25 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/polkabear
+
+# Prose
+prose:
+  siteurl: "polkabear.github.io"
+  media: "images"
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
