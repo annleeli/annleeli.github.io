@@ -28,7 +28,7 @@ Pong game created in Java. The game has both a multi-player and single-player mo
 
 <a name="stars"></a>
 ## CountingStars | [Github]({{ site.github.repo }}/CountingStars)
-In-progress Android application for keeping track of things in life. It is a counter app that can be used for keeping track of times something happens, (e.g. yellow cars, science experiments or more).
+In-progress Android application for keeping track of things in life. It is a counter app that can be used for keeping track number of times something happens, (e.g. yellow cars, science experiments or more).
 
 <a name="graphics"></a>
 # Graphic Design Projects 
