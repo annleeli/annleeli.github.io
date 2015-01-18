@@ -4,11 +4,11 @@ title: Hello World
 published: true
 ---
 
-Getting this site up was a learning experience that I have still not completely figured out. I really want to understand Jekyll (because I think it is really cool and useful) but my local installation isn't working out. And so I may have given up and just downloaded a template instead. 
+Welcome to my new Jekyll site (super awesome and cool way of making a site). 
 
 ## Markdown
 
-All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for me to use if I need reminders. Or I can use [prose.io](prose.io) as a convenient editor. 
+All posts can be written in [Markdown](http://daringfireball.net/projects/markdown/). Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown and one can also use [prose.io](prose.io) as a convenient editor. 
 
 ## Looking forward
 
