@@ -33,6 +33,8 @@ Ontario Scholar, Ontario Secondary School Diploma
 
 ## Volunteer Positions
 ### Taekwondo Instructor, 2010 - 2012
+- Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo, Taekwondo patterns (World Taekwondo Federation style)
+- Supervised sparring matches in-class and during tests
 
 ## Skills
 ### Languages
