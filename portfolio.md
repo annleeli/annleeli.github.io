@@ -17,7 +17,7 @@ Some of my previous and ongoing projects. Source code coming soon to Github...
 A fast-pased, vertical-scrolling platformer game created in Turing. Goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory.
 
 <a name="quidditch"></a>
-![Quidditch](http://i.imgur.com/MG1rFYL.png)
+![Quidditch](/rsc/quidditch.png)
 ## Quidditch Flight Simulator | [Github]({{ site.github.repo }}/Quidditch-flight-simulator)
 A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. 
 
@@ -35,15 +35,15 @@ In-progress Android application for keeping track of things in life. It is a cou
 
 <a name="will"></a>
 [![Will's Graham Crackers](http://i.imgur.com/xwxmEhE.jpg)](http://i.imgur.com/xwxmEhE.jpg "Click for full size")
-## Will's Graham Crackers - Product Packaging Design | [PDF](/media/Product Packaging Design.pdf)
+## Will's Graham Crackers - Product Packaging Design | [PDF](/rsc/Product Packaging Design.pdf)
 Full product packing design for a fictional brand of crackers. Designed in Illustrator. 
 
 <a name="drapple"></a>
-![Drapple](/media/drapple drink.gif)
+![Drapple](/rsc/drapple drink.gif)
 ## Drapple - Product Label Design
 Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop. 
 
 <a name="jmc"></a>
-![JMC shirt](/media/jmc shirt.jpg)
+![JMC shirt](/rsc/jmc shirt.jpg)
 ## Japanese Media Club T-Shirt Design
 Winner of JMC's t-shirt design contest, featuring a cross between a popular anime and internet meme. This shirt was printed and worn by over 20 members of the club. Designed in Illustrator.
