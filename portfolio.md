@@ -23,7 +23,7 @@ A flight simulator program created in Java. It is skinned to look like a [Quiddi
 <a name="pong"></a>
 ![Pong](http://i.imgur.com/j4heico.png)
 ## !Ping, but Pong | [Github](https://github.com/polkabear/not-Ping-but-Pong)
-Pong game created in Java. The game has both a multi-player and single-player mode. The UI elements were the parts of the project that I really liked. 
+Pong game created in Java. The game has both a multi-player and single-player mode. The UI elements (easily extensible menu) were the parts of the project that I really liked. 
 
 <a name="stars"></a>
 ## CountingStars | [Github](https://github.com/polkabear/CountingStars)
