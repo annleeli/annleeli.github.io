@@ -22,7 +22,7 @@ A flight simulator program created in Java. It is skinned to look like a [Quiddi
 
 <a name="pong"></a>
 ![Pong](http://i.imgur.com/j4heico.png)
-## !Ping, but Pong
+## !Ping, but Pong | [Github](https://github.com/polkabear/not-Ping-but-Pong)
 Pong game created in Java. The game has both a multi-player and single-player mode.
 
 <a name="stars"></a>
