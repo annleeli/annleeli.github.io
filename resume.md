@@ -32,9 +32,14 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Designed club t-shirt for high school’s Japanese Media Club using Illustrator (design was selected out of 10 other designs)
 
 ## Volunteer Positions
+### Leader of ECOO Programming Team, 2014
+- Led and trained a team of female students for the _York Regional Programming Contest_ representing Bayview Secondary School
+
 ### Taekwondo Instructor, 2010 - 2012
-- Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo, Taekwondo patterns (World Taekwondo Federation style)
+- Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo and Taekwondo patterns (World Taekwondo Federation style)
 - Supervised sparring matches in-class and during tests
+
+
 
 ## Skills
 ### Languages
