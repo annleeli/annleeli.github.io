@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Annlee Li
 tagline:          'personal site'
 description:      '1B Computer Science student at UWaterloo'
-url:              http://polkabear.github.io
+url:              http://annleeli.me
 baseurl:          /
 
 author:
