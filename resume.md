@@ -25,7 +25,7 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Developed the front end of the wiki’s appearance and functions using HTML, CSS and Wiki Markup 
 
 ## Graphic Design Projects | [View](/portfolio/graphics)
-### Will's Graham Crackers - Product Design, 2014 | [View](/portfolio/#will)
+### Will's Graham Crackers - Product Design, 2014
 - Designed in Illustrator the packaging design for a fictional brand of crackers
 
 ### Club T-Shirt, 2013
