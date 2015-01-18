@@ -44,4 +44,4 @@ Label and brand design for a fictional beverage company. Designed in Illustrator
 
 ![JMC shirt](/media/jmc shirt.jpg)
 ## Japanese Media Club T-Shirt Design
-Winner of JMC's t-shirt design contest featuring the cross between a popular anime and internet meme. Designed in Illustrator. 
+Winner of JMC's t-shirt design contest featuring a cross between a popular anime and internet meme. Designed in Illustrator. 
