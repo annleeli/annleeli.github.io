@@ -26,7 +26,7 @@ Ontario Scholar, Ontario Secondary School Diploma
 
 ## Graphic Design Projects | [View](/portfolio/graphics)
 ### Will's Graham Crackers - Product Design, 2014
-### Club T-Shirt
+### Club T-Shirt, 2013
 - Designed club t-shirt for high school’s Japanese Media Club using Illustrator (design was selected out of 10 other designs)
 
 ## Skills
