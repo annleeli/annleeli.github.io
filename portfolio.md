@@ -12,22 +12,22 @@ Some of my previous and ongoing projects. Source code coming soon to Github...
 # Programming Projects 
 
 <a name="sweets"></a>
-[![Eat the Sweets](http://i.imgur.com/r6AaxjL.png)](https://github.com/polkabear/EatTheSweets)
-## Eat the Sweets | [Github](https://github.com/polkabear/EatTheSweets) 
+[![Eat the Sweets](http://i.imgur.com/r6AaxjL.png)]({{ site.github.repo }}/EatTheSweets)
+## Eat the Sweets | [Github]({{ site.github.repo }}/EatTheSweets) 
 A fast-pased, vertical-scrolling platformer game created in Turing. Goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory.
 
 <a name="quidditch"></a>
 ![Quidditch](http://i.imgur.com/MG1rFYL.png)
-## Quidditch Flight Simulator | [Github](https://github.com/polkabear/Quidditch-flight-simulator)
+## Quidditch Flight Simulator | [Github]({{ site.github.repo }}/Quidditch-flight-simulator)
 A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. 
 
 <a name="pong"></a>
 ![Pong](http://i.imgur.com/j4heico.png)
-## !Ping, but Pong | [Github](https://github.com/polkabear/not-Ping-but-Pong)
+## !Ping, but Pong | [Github]({{ site.github.repo }}/not-Ping-but-Pong)
 Pong game created in Java. The game has both a multi-player and single-player mode. The UI elements (easily extensible menu) were the parts of the project that I really liked. 
 
 <a name="stars"></a>
-## CountingStars | [Github](https://github.com/polkabear/CountingStars)
+## CountingStars | [Github]({{ site.github.repo }}/CountingStars)
 In-progress Android application for keeping track of things in life. It is a counter app that can be used for keeping track of times something happens, (e.g. yellow cars, science experiments or more).
 
 <a name="graphics"></a>
@@ -46,4 +46,4 @@ Label and brand design for a fictional beverage company. Designed in Illustrator
 <a name="jmc"></a>
 ![JMC shirt](/media/jmc shirt.jpg)
 ## Japanese Media Club T-Shirt Design
-Winner of JMC's t-shirt design contest, featuring a cross between a popular anime and internet meme. This shirt was printed and worn by over 20 members of the club. Designed in Illustrator. 
+Winner of JMC's t-shirt design contest, featuring a cross between a popular anime and internet meme. This shirt was printed and worn by over 20 members of the club. Designed in Illustrator.
