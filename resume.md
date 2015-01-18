@@ -4,6 +4,8 @@ title: Resume
 published: true
 ---
 
+View my resume as a [PDF](/rsc/Annlee Li - Resume.pdf).
+
 # Annlee Li
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
 [Github]({{ site.github.repo }})
