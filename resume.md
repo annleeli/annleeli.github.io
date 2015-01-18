@@ -39,7 +39,9 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo and Taekwondo patterns (World Taekwondo Federation style)
 - Supervised sparring matches in-class and during tests
 
-
+## Awards and Achivements
+- University of Waterloo President's Scholarship, 2014
+- 3rd Degree Black Belt in Taekwondo, 2012
 
 ## Skills
 ### Languages
