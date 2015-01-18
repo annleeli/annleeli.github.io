@@ -37,3 +37,4 @@ Full product packing design for a fictional brand of crackers. I designed it usi
 
 ![Drapple](/media/drapple drink.gif)
 ## Drapple - Product Label Design
+Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop. 
