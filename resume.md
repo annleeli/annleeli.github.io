@@ -16,7 +16,7 @@ Candidate for Bachelor of Computer Science Degree, 2019
 Ontario Scholar, Ontario Secondary School Diploma
 
 ## Programming Experience | [View](/portfolio/programs)
-### Eat the Sweets, 2011
+### [Eat the Sweets, 2011](/portfolio/#sweets)
 - Used Turing to develop the game engine and UI for a vertical-scrolling platform game similar to Doodle Jump
 - Designed graphics using Photoshop
 
@@ -25,7 +25,9 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Developed the front end of the wiki’s appearance and functions using HTML, CSS and Wiki Markup 
 
 ## Graphic Design Projects | [View](/portfolio/graphics)
-### Will's Graham Crackers - Product Design, 2014
+### Will's Graham Crackers - Product Design, 2014 | [View](/portfolio/#will)
+- Designed in Illustrator the packaging design for a fictional brand of crackers
+
 ### Club T-Shirt, 2013
 - Designed club t-shirt for high school’s Japanese Media Club using Illustrator (design was selected out of 10 other designs)
 
