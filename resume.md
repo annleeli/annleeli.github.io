@@ -24,6 +24,7 @@ Ontario Scholar, Ontario Secondary School Diploma
 - HTML, CSS
 - Java
 - Wiki Markup
+
 ### Software
 - Photoshop
 - Illustrator
