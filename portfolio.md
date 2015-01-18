@@ -32,5 +32,5 @@ In-progress Android application for keeping track of things in life. It is a cou
 <a name="graphics"></a>
 # Graphic Design Projects 
 [![Will's Graham Crackers](http://i.imgur.com/xwxmEhE.jpg)](http://i.imgur.com/xwxmEhE.jpg "Click for full size")
-## Will's Graham Crackers - Product Packaging Design
+## Will's Graham Crackers - Product Packaging Design | PDF
 Full product packing design for a fictional brand of crackers. I designed it using Illustrator. 
