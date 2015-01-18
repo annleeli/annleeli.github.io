@@ -16,7 +16,7 @@ Candidate for Bachelor of Computer Science Degree, 2019
 Ontario Scholar, Ontario Secondary School Diploma
 
 ## Programming Experience | [View](/portfolio/programs)
-### [Eat the Sweets, 2011](/portfolio/#sweets)
+### Eat the Sweets, 2011
 - Used Turing to develop the game engine and UI for a vertical-scrolling platform game similar to Doodle Jump
 - Designed graphics using Photoshop
 
