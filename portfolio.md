@@ -42,6 +42,7 @@ Full product packing design for a fictional brand of crackers. Designed in Illus
 ## Drapple - Product Label Design
 Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop. 
 
+<a name="jmc"></a>
 ![JMC shirt](/media/jmc shirt.jpg)
 ## Japanese Media Club T-Shirt Design
 Winner of JMC's t-shirt design contest, featuring a cross between a popular anime and internet meme. This shirt was printed and worn by over 20 members of the club. Designed in Illustrator. 
