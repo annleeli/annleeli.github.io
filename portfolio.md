@@ -14,7 +14,7 @@ Some of my previous and ongoing projects.
 <a name="sweets"></a>
 ![Eat the Sweets](/rsc/sweets.png)
 ## Eat the Sweets | [Github]({{ site.github.repo }}/EatTheSweets) 
-A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory. [PLAY]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe)
+A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory. &laquo;[PLAY]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe)&raquo;
 
 <a name="quidditch"></a>
 ![Quidditch](/rsc/quidditch.png)
