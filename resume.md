@@ -6,7 +6,7 @@ published: true
 
 # Annlee Li
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
-[Github](https://github.com/polkabear)
+[Github]({{ site.github.repo }})
 
 ## Education
 ### University of Waterloo, 2014 - Present
