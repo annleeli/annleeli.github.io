@@ -17,7 +17,7 @@ A fast-pased, vertical-scrolling platformer game created in Turing. Goal is to c
 
 <a name="quidditch"></a>
 ![Quidditch](http://i.imgur.com/MG1rFYL.png)
-## Quidditch Flight Simulator
+## Quidditch Flight Simulator | [Github](https://github.com/polkabear/Quidditch-flight-simulator)
 A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. 
 
 <a name="pong"></a>
@@ -41,3 +41,5 @@ Full product packing design for a fictional brand of crackers. I designed it usi
 ![Drapple](/media/drapple drink.gif)
 ## Drapple - Product Label Design
 Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop. 
+
+## Japanese Media Club T-Shirt Design
