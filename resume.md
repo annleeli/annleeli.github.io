@@ -20,6 +20,12 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Used Turing to develop the game engine and UI for a vertical-scrolling platform game similar to Doodle Jump
 - Designed graphics using Photoshop
 
+### Administrator & Front-End Developer for an Online Game Wiki, 2011 - 2013
+- Rebuilt an inactive wiki into the go-to-resource for a popular Facebook game
+- Developed the front end of the wiki’s appearance and functions using HTML, CSS and Wiki Markup 
+
+## Graphic Design Projects | [View](/portfolio/graphics)
+### Will's Graham Crackers - Product Design, 2014
 
 ## Skills
 ### Languages
