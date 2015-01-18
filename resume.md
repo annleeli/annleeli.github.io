@@ -31,6 +31,9 @@ Ontario Scholar, Ontario Secondary School Diploma
 ### Club T-Shirt, 2013
 - Designed club t-shirt for high school’s Japanese Media Club using Illustrator (design was selected out of 10 other designs)
 
+## Volunteer Positions
+### Taekwondo Instructor, 2010 - 2012
+
 ## Skills
 ### Languages
 - Racket (Scheme)
