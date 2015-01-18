@@ -7,6 +7,7 @@ published: true
 Some of my previous and ongoing projects. Source code coming soon to Github...
 
 <!-- note to self: create gifs of gameplay when you rollover the images--->
+
 <a name="programs"></a>
 # Programming Projects 
 
