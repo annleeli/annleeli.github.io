@@ -4,7 +4,7 @@ title: Portfolio
 published: true
 ---
 
-Some of my previous and ongoing projects. Source code coming soon to Github...
+Some of my previous and ongoing projects.
 
 <!-- note to self: create gifs of gameplay when you rollover the images--->
 
