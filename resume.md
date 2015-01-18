@@ -11,10 +11,10 @@ published: true
 [Github]({{ site.github.repo }})
 
 ## Education
-### University of Waterloo, 2014 - Present
+#### University of Waterloo, 2014 - Present
 Candidate for Bachelor of Computer Science Degree, 2019
 
-### Bayview Secondary School, 2010 - 2014
+#### Bayview Secondary School, 2010 - 2014
 Ontario Scholar, Ontario Secondary School Diploma
 
 ## Programming Experience | [View](/portfolio/programs)
