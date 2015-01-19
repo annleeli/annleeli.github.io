@@ -64,4 +64,4 @@ Ontario Scholar, Ontario Secondary School Diploma
 #### Operating Systems
 - Windows XP/7/8/8.1
 - OSX 
-- Linux: ElementaryOS, Ubuntu
+- Linux: ElementaryO, Ubuntu
