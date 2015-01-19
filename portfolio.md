@@ -24,7 +24,7 @@ A fast-paced, vertical-scrolling platformer game created in Turing. The goal is 
 <a name="quidditch"></a>
 ![Quidditch](/rsc/quidditch.png)
 ## Quidditch Flight Simulator | [Github]({{ site.github.repo }}/Quidditch-flight-simulator)
-A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. 
+A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. Perspective is achieved by applying physics formulae.
 
 <a name="stars"></a>
 ## CountingStars | [Github]({{ site.github.repo }}/CountingStars)
@@ -46,4 +46,4 @@ Winner of JMC's t-shirt design contest, featuring a cross between a popular anim
 <a name="drapple"></a>
 ![Drapple](/rsc/drapple drink.gif)
 ## Drapple - Product Label Design
-Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop. 
+Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop.
