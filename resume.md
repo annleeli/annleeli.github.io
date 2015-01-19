@@ -17,7 +17,11 @@ Candidate for Bachelor of Computer Science Degree
 #### Bayview Secondary School, 2010 - 2014
 Ontario Scholar, Ontario Secondary School Diploma
 
-## Programming Experience | [View](/portfolio/programs)
+## Programming Experience | [View](/portfolio/#programs)
+#### !Ping, but Pong, 2014
+- Developed a Pong game in Java featuring collision detection and animations
+- Created a menu system that is easily extensible 
+
 #### Eat the Sweets, 2011
 - Used Turing to develop the game engine and UI for a vertical-scrolling platform game similar to Doodle Jump
 - Designed graphics using Photoshop
