@@ -45,7 +45,7 @@ Ontario Scholar, Ontario Secondary School Diploma
 - Rebuilt an inactive wiki into the go-to-resource for a popular Facebook game
 - Developed the front end of the wiki’s appearance and functions using HTML, CSS and Wiki Markup 
 
-#### Taekwondo Instructor, 2010 - 2012
+#### Volunteer Taekwondo Instructor, 2010 - 2012
 - Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo and Taekwondo patterns (World Taekwondo Federation style)
 - Supervised sparring matches in-class and during tests
 
