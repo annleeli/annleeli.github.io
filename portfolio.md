@@ -38,6 +38,10 @@ In-progress Android application for keeping track of things in life. It is a cou
 ## Will's Graham Crackers - Product Packaging Design | [PDF](/rsc/Product Packaging Design.pdf)
 Full product packing design for a fictional brand of crackers. Designed in Illustrator. 
 
+![BSS agenda](/rsc/bss.jpg)
+## School Agenda Design
+Winner of school agenda cover design contest. The agenda was printed and was distributed to over 2000 students.
+
 <a name="jmc"></a>
 ![JMC shirt](/rsc/jmc shirt.jpg)
 ## Japanese Media Club T-Shirt Design
