@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Annlee Li
-tagline:          'personal site'
+tagline:          'Hero'
 description:      '1B Computer Science student at UWaterloo'
 url:              http://annleeli.me
 baseurl:          /
@@ -45,4 +45,4 @@ prose:
         field:
           label: "Title"
           element: "text"
-          value: "A awesome Headline!"
+
