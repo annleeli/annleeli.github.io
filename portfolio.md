@@ -41,7 +41,7 @@ Full product packing design for a fictional brand of crackers. Designed in Illus
 <a name="will"></a>
 ![BSS agenda](/rsc/bss.jpg)
 ## School Agenda Design
-Winner of school agenda cover design contest. The agenda was printed and distributed to over 2000 students.
+Winner of school agenda cover design contest. The agenda was printed and distributed to over 2000 students. Designed in Illustrator, illustration by Hope Little.
 
 <a name="jmc"></a>
 ![JMC shirt](/rsc/jmc shirt.jpg)
