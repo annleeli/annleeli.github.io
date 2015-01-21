@@ -16,15 +16,15 @@ Some of my previous and ongoing projects.
 ## !Ping, but Pong | [Github]({{ site.github.repo }}/not-Ping-but-Pong)
 Pong game created in Java. The game has both a multi-player and single-player mode. The UI aspect (the menu) was the part of the project that I really liked making. 
 
-<a name="sweets"></a>
-![Eat the Sweets](/rsc/sweets.png)
-## Eat the Sweets | [Github]({{ site.github.repo }}/EatTheSweets) 
-A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory. [&laquo; PLAY &raquo;]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe) 
-
 <a name="quidditch"></a>
 ![Quidditch](/rsc/quidditch.png)
 ## Quidditch Flight Simulator | [Github]({{ site.github.repo }}/Quidditch-flight-simulator)
 A flight simulator program created in Java. It is skinned to look like a [Quidditch pitch](http://harrypotter.wikia.com/wiki/Quidditch) from Harry Potter. Perspective is achieved by applying physics formulae.
+
+<a name="sweets"></a>
+![Eat the Sweets](/rsc/sweets.png)
+## Eat the Sweets | [Github]({{ site.github.repo }}/EatTheSweets) 
+A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory. [&laquo; PLAY &raquo;]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe) 
 
 <a name="stars"></a>
 ## CountingStars | [Github]({{ site.github.repo }}/CountingStars)
