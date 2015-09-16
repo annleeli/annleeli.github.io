@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Annlee Li
 tagline:          'Hero'
-description:      '1B Computer Science student at UWaterloo'
-url:              http://annleeli.me
+description:      '2A Computer Science student at UWaterloo'
+url:              http://annlee.li
 baseurl:          /
 
 author:
@@ -45,4 +45,3 @@ prose:
         field:
           label: "Title"
           element: "text"
-
