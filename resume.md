@@ -1,7 +1,6 @@
+
 ---
 layout: page
-title: Resume
-published: true
 ---
 
 &raquo; View my resume as a [PDF](/rsc/Annlee Li - Resume.pdf).
@@ -10,12 +9,12 @@ published: true
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
 [Github]({{ site.github.repo }})
 
-## Education
-#### University of Waterloo, 2014 - 2019 (expected)
-Candidate for Bachelor of Computer Science Degree
-
-#### Bayview Secondary School, 2010 - 2014
-Ontario Scholar, Ontario Secondary School Diploma
+## Work Experience
+### Quality Analyst, PointClickCare, Mississauga, Ontario, May - Aug 2015	
+- Developed automated testing scripts in Java with Selenium 
+- Performed regression, functional, black box, sanity and usability testing
+- Wrote test cases for regression testing on TestRail
+- Worked in a Scrum team using JIRA
 
 ## Programming Experience | [View](/portfolio/#programs)
 #### !Ping, but Pong, 2014
@@ -33,28 +32,30 @@ Ontario Scholar, Ontario Secondary School Diploma
 #### Club T-Shirt, 2013
 - Designed club t-shirt for high school’s Japanese Media Club using Illustrator (design was selected out of 10 other designs)
 
+## Education
+#### University of Waterloo, 2014 - 2019 (expected)
+Candidate for Bachelor of Computer Science Degree
+
 ## Awards and Achivements
 - University of Waterloo President's Scholarship, 2014
 - 3rd Degree Black Belt in Taekwondo, 2012
 
 ## Leadership Positions
-#### Leader of ECOO Programming Team, 2014
-- Led and trained a team of female students for the _York Regional Programming Contest_ representing Bayview Secondary School
+### Math Orientation Leader, University of Waterloo, Sept 2015	
+- Lead and directed math and cross-faculty Orientation Week events
+- Managed groups of up to 100 first-year students
 
-#### Administrator & Front-End Developer for an Online Game Wiki, 2011 - 2013
-- Rebuilt an inactive wiki into the go-to-resource for a popular Facebook game
-- Developed the front end of the wiki’s appearance and functions using HTML, CSS and Wiki Markup 
-
-#### Volunteer Taekwondo Instructor, 2010 - 2012
-- Taught and mentored students (ages 7 – 30+) on the basics of Taekwondo and Taekwondo patterns (World Taekwondo Federation style)
-- Supervised sparring matches in-class and during tests
+### Marketing Executive Member of WWF Club, University of Waterloo, Jan - Apr 2015	
+- Participated in marketing of Waterloo’s World Wildlife Foundation club
+- Created promotional materials for the club 
 
 ## Skills
 #### Languages
+- Java
+- C
 - Racket (Scheme)
 - HTML, CSS
-- Java
-- Wiki Markup
+- Markdown, LaTeX
 
 #### Software
 - Photoshop
