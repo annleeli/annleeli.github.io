@@ -1,6 +1,7 @@
-
 ---
 layout: page
+title: Resume
+published: true
 ---
 
 &raquo; View my resume as a [PDF](/rsc/Annlee Li - Resume.pdf).
