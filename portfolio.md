@@ -11,6 +11,11 @@ Some of my previous and ongoing projects.
 <a name="programs"></a>
 # Programming Projects 
 
+<a name="gishwhes"></a>
+![Gishwhes Mascot](/rsc/gishwhes mascot.png)
+## [Gishwhes Mascot Generator](http://annlee.li/GishwhesMascot/) | [Github]({{ site.github.repo }}/GishwhesMascot) 
+A mascot generator for Gishwhes 2015 ([gishwhes.com](https://gishwhes.com/)) created for ITEM 86. It randomly generates a name for a hybrid animal, for example "octopillar". [Shaw Tan](https://github.com/tanx8) and I created the site using HTML, CSS, Javascript and JQuery. 
+
 <a name="pong"></a>
 ![Pong](/rsc/pong.png)
 ## !Ping, but Pong | [Github]({{ site.github.repo }}/not-Ping-but-Pong)
