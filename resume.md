@@ -67,3 +67,4 @@ Candidate for Bachelor of Computer Science Degree
 - Windows XP/7/8/8.1
 - OSX 
 - Linux: ElementaryOS, Ubuntu
+
