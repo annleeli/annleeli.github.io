@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Hi, I'm Annlee
+title: 
 published: true
 ---
-  
+Hi, I'm Annlee
+--------------
   I am currently in my second year at the University of Waterloo, studying **Computer Science** with co-op. I have a passion for new technologies, the internet and art. 
   
   I have experience in **web development**, **mobile development**, and **game development**. I also am very interesting in UI/UX design. 
