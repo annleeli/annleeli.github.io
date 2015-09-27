@@ -11,7 +11,7 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    {% if {{post.nodate}} == "true" %}
+    {% if post.nodate == "true" %}
     {% else %}
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {% endif% }
