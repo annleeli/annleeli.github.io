@@ -3,11 +3,9 @@ layout: page
 title: Portfolio
 published: true
 ---
-
-
 Some of my previous and ongoing projects.
 
-Jump to: [Programming](#programs) | [Graphic Design](#graphics)
+» Jump to: [Programming](#programs) | [Graphic Design](#graphics)
 
 <!-- note to self: create gifs of gameplay when you rollover the images--->
 
