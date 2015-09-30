@@ -4,7 +4,10 @@ title: Portfolio
 published: true
 ---
 
+
 Some of my previous and ongoing projects.
+
+Jump to: [Programming](#programs) | [Graphic Design](#graphics)
 
 <!-- note to self: create gifs of gameplay when you rollover the images--->
 
@@ -14,7 +17,7 @@ Some of my previous and ongoing projects.
 <a name="gishwhes"></a>
 ![Gishwhes Mascot](/rsc/gishwhes.png)
 ## [Gishwhes Mascot Generator](http://annlee.li/GishwhesMascot/) | [Github]({{ site.github.repo }}/GishwhesMascot) 
-A mascot generator for Gishwhes 2015 ([gishwhes.com](https://gishwhes.com/)) created for ITEM 86. It randomly generates a name for a hybrid animal, for example "octopillar". [Shaw Tan](https://github.com/tanx8) and I created the site using HTML, CSS, Javascript and JQuery. 
+A mascot generator for Gishwhes 2015 ([gishwhes.com](https://gishwhes.com/)) created for ITEM 86. It randomly generates a name for a hybrid animal, for example "octopillar". [Shaw Tan](https://github.com/tanx8) and I created the site using HTML, CSS, Javascript and JQuery. I edited the main image and designed the layout on Photoshop.
 
 <a name="pong"></a>
 ![Pong](/rsc/pong.png)
@@ -29,7 +32,7 @@ A flight simulator program created in Java. It is skinned to look like a [Quiddi
 <a name="sweets"></a>
 ![Eat the Sweets](/rsc/sweets.png)
 ## Eat the Sweets | [Github]({{ site.github.repo }}/EatTheSweets) 
-A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. Some graphics were created by me, while others were borrowed from MapleStory. [&laquo; PLAY &raquo;]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe) 
+A fast-paced, vertical-scrolling platformer game created in Turing. The goal is to collect as many sweets as you can without falling off before reaching the goal. This was my first experience in creating a game. MostSome ofgraphics the UI elements were created by me, while charactersothers and background images were borrowed from MapleStory. [&laquo; PLAY &raquo;]({{ site.github.repo }}/EatTheSweets/blob/master/Eat%20the%20Sweets.exe) 
 
 <a name="stars"></a>
 ## CountingStars | [Github]({{ site.github.repo }}/CountingStars)
@@ -41,7 +44,7 @@ In-progress Android application for keeping track of things in life. It is a cou
 <a name="will"></a>
 [![Will's Graham Crackers](/rsc/will.jpg)](/rsc/outer-full.jpg "Click for full size")
 ## Will's Graham Crackers - Product Packaging Design | [PDF](/rsc/Product Packaging Design.pdf)
-Full product packing design for a fictional brand of crackers. Designed in Illustrator. 
+Full product packing design for a fictional brand of crackers. ItDesigned is a sleeve-box designed in 2 pieces. Created in Illustrator. 
 
 <a name="jmc"></a>
 ![JMC shirt](/rsc/jmc shirt.jpg)
@@ -51,4 +54,4 @@ Winner of JMC's t-shirt design contest, featuring a cross between a popular anim
 <a name="drapple"></a>
 ![Drapple](/rsc/drapple drink.gif)
 ## Drapple - Product Label Design
-Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop.
+Label and brand design for a fictional beverage company. Designed in Illustrator, gif made with Photoshop and painstakingly photographed using a DSLR. 
