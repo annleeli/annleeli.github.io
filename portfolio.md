@@ -42,7 +42,7 @@ In-progress Android application for keeping track of things in life. It is a cou
 <a name="will"></a>
 [![Will's Graham Crackers](/rsc/will.jpg)](/rsc/outer-full.jpg "Click for full size")
 ## Will's Graham Crackers - Product Packaging Design | [PDF](/rsc/Product Packaging Design.pdf)
-Full product packing design for a fictional brand of crackers. ItDesigned is a sleeve-box designed in 2 pieces. Created in Illustrator. 
+Full product packing design for a fictional brand of crackers. It is a sleeve-box designed as 2 pieces. Photography taken with a DSLR and adjusted in Photoshop, net created in Illustrator. 
 
 <a name="jmc"></a>
 ![JMC shirt](/rsc/jmc shirt.jpg)
