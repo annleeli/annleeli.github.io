@@ -4,7 +4,7 @@ title: Resume
 published: true
 ---
 
-&raquo; View my resume as a [PDF](/rsc/Annlee Li - Resume.pdf).
+&raquo; View my resume as a [PDF](https://www.dropbox.com/s/jme3wu2g4b1w9bc/Annlee%20Li%20-%20Resume.pdf?dl=0).
 
 # Annlee Li
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
