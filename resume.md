@@ -8,10 +8,16 @@ published: true
 
 # Annlee Li
 <a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
-[Github]({{ site.github.repo }})
+[Github]({{ site.github.repo }}) | [LinkedIn](https://ca.linkedin.com/in/annleeli)
 
 ## Work Experience
-### Quality Analyst, PointClickCare, Mississauga, Ontario, May - Aug 2015	
+### Full Stack Web Developer, Imagine Communications, Waterloo, Ontario, Jan - May 2016
+- Developed AngularJS based web applications written in TypeScript, HTML and LESS version controlled by Mercurial
+- Optimized performance of data-heavy web pages 
+- Implemented design decisions that were well received by National Association of Broadcasters (NAB) trade show attendees
+- Wrote a mock data JSON generation script that was integral to the NAB demonstration
+
+### Quality Analyst, PointClickCare, Mississauga, On, May - Aug 2015	
 - Developed automated testing scripts in Java with Selenium 
 - Performed regression, functional, black box, sanity and usability testing
 - Wrote test cases for regression testing on TestRail
