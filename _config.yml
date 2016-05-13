@@ -9,13 +9,13 @@ relative_permalinks: true
 # Setup
 title:            Annlee Li
 tagline:          'Hero'
-description:      '2A Computer Science student at UWaterloo'
+description:      '2B Computer Science student at UWaterloo'
 url:              http://annlee.li
 baseurl:          /
 
 author:
   name:           'Annlee Li'
-  url:            https://twitter.com/tisannlee
+  url:            
 
 paginate:         10
 
