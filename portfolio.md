@@ -15,7 +15,7 @@ Some of my previous and ongoing projects.
 <a name="qhacks"></a>
 ![#Politicalign](/rsc/politicalign.png)
 ## [#Politicalign](http://annlee.li/PoliticalMeter/src/index.html) | [Github](https://github.com/annleeli/PoliticalMeter/)
-An AngularJS website created for qHacks 2016. It integrates [indico.io](https://indico.io/) machine learning results and displays them with [chart.js](http://www.chartjs.org/). It analyzes the postivity, political leanings and personality of 2016 American Presidential candidates' speeches.
+An AngularJS website created for qHacks 2016. It integrates [indico.io](https://indico.io/) machine learning results and displays them with [chart.js](http://www.chartjs.org/). It analyzes the postivity, political leanings and personality of 2016 American Presidential candidates' speeches. I created the site using AngularJS, JavaScript, HTML, and CSS. 
 
 <a name="gishwhes"></a>
 ![Gishwhes Mascot](/rsc/gishwhes.png)
