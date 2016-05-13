@@ -12,9 +12,9 @@ published: true
 
 ## Work Experience
 ### Full Stack Web Developer, Imagine Communications, Waterloo, Ontario, Jan - May 2016
-- Developed AngularJS based web applications written in TypeScript, HTML and LESS version controlled by Mercurial
+- Developed AngularJS based web applications written in TypeScript, HTML and LESS, version controlled by Mercurial
 - Optimized performance of data-heavy web pages 
-- Implemented design decisions that were well received by National Association of Broadcasters (NAB) trade show attendees
+- Implemented design decisions well received by National Association of Broadcasters (NAB) trade show attendees
 - Wrote a mock data JSON generation script that was integral to the NAB demonstration
 
 ### Quality Analyst, PointClickCare, Mississauga, On, May - Aug 2015	
