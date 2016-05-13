@@ -12,6 +12,11 @@ Some of my previous and ongoing projects.
 <a name="programs"></a>
 # Programming Projects 
 
+<a name="qhacks"></a>
+![#Politicalign](/rsc/politicalign.png)
+## [#Politicalign](http://annlee.li/PoliticalMeter/src/index.html) | [Github](https://github.com/annleeli/PoliticalMeter/)
+An AngularJS website created for qHacks 2016. It integrates [indico.io](https://indico.io/) machine learning results and displays them with [chart.js](http://www.chartjs.org/). It analyzes the postivity, political leanings and personality of 2016 American Presidential candidates' speeches.
+
 <a name="gishwhes"></a>
 ![Gishwhes Mascot](/rsc/gishwhes.png)
 ## [Gishwhes Mascot Generator](http://annlee.li/GishwhesMascot/) | [Github]({{ site.github.repo }}/GishwhesMascot) 
