@@ -11,7 +11,7 @@ title:            Annlee Li
 tagline:          'Hero'
 description:      '4A Computer Science student at UWaterloo'
 url:              http://annlee.li
-baseurl:          /
+baseurl:          http://annlee.li/
 
 author:
   name:           'Annlee Li'
