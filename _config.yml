@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Annlee Li
 tagline:          'Hero'
 description:      '4A Computer Science student at UWaterloo'
-url:              http://annlee.li
-baseurl:          http://annlee.li/
+url:              http://annlee.li/
+baseurl:          /
 
 author:
   name:           'Annlee Li'
