@@ -12,6 +12,11 @@ Some of my previous and ongoing projects.
 <a name="programs"></a>
 # Programming Projects 
 
+<a name="othello"></a>
+![Othello](/rsc/othello.png)
+## [Othello](http://annlee.li/othello) | [Github](https://github.com/annleeli/othello/)
+An Othello/Reversi game with a basic AI using JavaScript. The AI uses minimax search and heuristics like weighted squares, mobility and stability. It was created as an assignment for an Artifical Intelligence course at the University of Hong Kong. 
+
 <a name="qhacks"></a>
 ![#Politicalign](/rsc/politicalign.png)
 ## [#Politicalign](http://annlee.li/PoliticalMeter/src/index.html) | [Github](https://github.com/annleeli/PoliticalMeter/)
