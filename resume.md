@@ -22,7 +22,7 @@ published: true
 - Created custom key-bindings for an enhanced inbox browsing experience 
 - Implemented hidden links in emails to improve email tracking statistics
 
-### Application Developer, Acceed (Digiflare), Toronto,	Sept - Dec 2016
+### Application Developer, Accedo (Digiflare), Toronto,	Sept - Dec 2016
 -	Developed Showtime’s Roku 2.0 application in BrightScript
 - Created new components and animations used throughout the app 
 
