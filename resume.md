@@ -11,17 +11,28 @@ published: true
 [Github]({{ site.github.repo }}) | [LinkedIn](https://ca.linkedin.com/in/annleeli)
 
 ## Work Experience
+### Full Stack Developer, AdRoll, San Francisco, Jan - Apr 2018
+- Created new Jenkins pipelines, Docker images and Python build scripts to upgrade team’s continuous integration pipeline 
+- Implemented React components for new ad campaign creation experiences 
+- Integrated internationalization scripts to push, pull and replace translated strings in the application
+
+### Software Develoer, StreetContxt, Toronto, May - Aug 2017
+- Helped launch new Buy Side Platform by writing new React components 
+- Built article read time API using JavaScript, Java and PostgreSQL
+- Created custom key-bindings for an enhanced inbox browsing experience 
+- Implemented hidden links in emails to improve email tracking statistics
+
+### Application Developer, Acceed (Digiflare), Toronto,	Sept - Dec 2016
+-	Developed Showtime’s Roku 2.0 application in BrightScript
+- Created new components and animations used throughout the app 
+
 ### Full Stack Web Developer, Imagine Communications, Waterloo, Ontario, Jan - May 2016
-- Developed AngularJS based web applications written in TypeScript, HTML and LESS, version controlled by Mercurial
-- Optimized performance of data-heavy web pages 
-- Implemented design decisions well received by National Association of Broadcasters (NAB) trade show attendees
-- Wrote a mock data JSON generation script that was integral to the NAB demonstration
+- Developed AngularJS TV broadcast scheduler written in TypeScript
+- Improved performance of DOM element heavy pages by profiling bottlenecks and implementing virtualized scrolling 
 
 ### Quality Analyst, PointClickCare, Mississauga, On, May - Aug 2015	
 - Developed automated testing scripts in Java with Selenium 
 - Performed regression, functional, black box, sanity and usability testing
-- Wrote test cases for regression testing on TestRail
-- Worked in a Scrum team using JIRA
 
 ## Programming Experience | [View](/portfolio/#programs)
 #### !Ping, but Pong, 2014
@@ -43,21 +54,17 @@ published: true
 #### University of Waterloo, 2014 - 2019 (expected)
 Candidate for Bachelor of Computer Science Degree
 
-## Awards and Achivements
-- University of Waterloo President's Scholarship, 2014
-- 3rd Degree Black Belt in Taekwondo, 2012
+## Achivements
+- 3rd Degree Black Belt in Taekwondo
 
 ## Leadership Positions
 ### Math Orientation Leader, University of Waterloo, Sept 2015	
 - Lead and directed math and cross-faculty Orientation Week events
 - Managed groups of up to 100 first-year students
 
-### Marketing Executive Member of WWF Club, University of Waterloo, Jan - Apr 2015	
-- Participated in marketing of Waterloo’s World Wildlife Foundation club
-- Created promotional materials for the club 
-
 ## Skills
 #### Languages
+- JavaScript (React)
 - Java
 - C
 - Racket (Scheme)
