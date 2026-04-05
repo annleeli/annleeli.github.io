@@ -7,7 +7,7 @@ published: true
 &raquo; View my resume as a [PDF](http://bit.ly/annleeResume).
 
 # Annlee Li
-<a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> !| 
+<a href="mailto:annlee.li@uwaterloo.ca">annlee.li@uwaterloo.ca</a> | 
 [Github]({{ site.github.repo }}) | [LinkedIn](https://ca.linkedin.com/in/annleeli)
 
 ## Work Experience
